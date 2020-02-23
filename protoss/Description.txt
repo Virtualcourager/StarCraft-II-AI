@@ -1,0 +1,16 @@
+This AI will build 4 gateway near the enemy's birth location. Train Stalker to launch a early attack
+
+Problem knows:
+Can not compete computer with rush strategy
+Stalkers will aim on cocoon when there is no offensive army near by rather than base
+Can not detect invisible units
+
+Current Winning Rate
+VS CheatInsane:
+    VS Terran       Played:         Win:          Winning Rate: 
+    VS Zerg         Played:25       Win:16        Winning Rate:64%
+    VS Protoss      Played:         Win:          Winning Rate:
+VS VeryHard:
+    VS Terran       Played:         Win:          Winning Rate: 
+    VS Zerg         Played:         Win:          Winning Rate:
+    VS Protoss      Played:         Win:          Winning Rate:
