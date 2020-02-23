@@ -11,6 +11,6 @@ VS CheatInsane:
     VS Zerg         Played:25       Win:16        Winning Rate:64%
     VS Protoss      Played:10       Win:1         Winning Rate:10%
 VS VeryHard:
-    VS Terran       Played:         Win:          Winning Rate: 
-    VS Zerg         Played:         Win:          Winning Rate:
-    VS Protoss      Played:         Win:          Winning Rate:
+    VS Terran       Played:26       Win:13        Winning Rate:50% 
+    VS Zerg         Played:26       Win:20        Winning Rate:77%
+    VS Protoss      Played:26       Win:24        Winning Rate:92%
