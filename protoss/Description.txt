@@ -1,6 +1,6 @@
 This AI will build 4 gateway near the enemy's birth location. Train Stalker to launch a early attack
 
-Problem knows:
+Problem known:
 Can not compete computer with rush strategy
 Stalkers will aim on cocoon when there is no offensive army near by rather than base
 Can not detect invisible units
