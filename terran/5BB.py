@@ -144,6 +144,6 @@ class fivebb(sc2.BotAI):
 
 run_game(maps.get("ThunderbirdLE"), [
         Bot(Race.Terran, fivebb()),
-        Computer(Race.Protoss, Difficulty.CheatInsane)
-    ], realtime=False)
+        Computer(Race.Zerg, Difficulty.CheatInsane)
+    ], realtime=False,save_replay_as='Example.SC2Replay')
 
